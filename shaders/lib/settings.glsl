@@ -1,0 +1,7 @@
+#if !defined _INCLUDE_SETTINGS_GLSL_
+#define _INCLUDE_SETTINGS_GLSL_
+
+#define MINIMAP_SIZE 0.4 //[0.1 0.2 0.3 0.4 0.5 0.6]
+#define MINIMAP_DISTANCE 32 //[16 32 48 64 96 128 256]
+
+#endif
